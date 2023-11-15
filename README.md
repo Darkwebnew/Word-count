@@ -1,4 +1,5 @@
-# Word-count
+# 5a. Word-count
+## Date: 26.09.2023
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
